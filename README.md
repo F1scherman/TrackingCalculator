@@ -3,5 +3,7 @@ This is a calculator designed to track users based on their calculator usage and
 
 ToDo:
 -Change the implementation for storage from a database to a file. This original implementation was solely to fulfill the requirements of the project, but the file-based implementation would be superior for most other cases.
+
 -Clean up clunkier parts of the code
+
 -Add actual documentation
