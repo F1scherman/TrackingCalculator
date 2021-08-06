@@ -8,3 +8,5 @@ ToDo:
 -Clean up clunkier parts of the code
 
 -Add actual documentation
+
+-Make the file system more clear
